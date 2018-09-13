@@ -1,6 +1,11 @@
 # TowerDefense-2D
 A 2D Tower Defense game. Consists of 3 towers and 3 enemy types with various stats. I have attached a link for my game package files do check that out.
 
+The three towers are
+  1. Arrow Tower
+  2. Fireball Tower
+  3. Castle Tower
+As and when you kill enemies you will collect more and more money, Depending on how much money you have you can create towers and place them.These things can be edited manually depending on your preferences.
 
 https://drive.google.com/file/d/1nERA1BerTeVjae0WuhEpXLYhM3NRU2F9/view?usp=sharing
 
